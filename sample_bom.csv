@@ -1,0 +1,5 @@
+part_id,process_list,materials,lead_time_hours
+P001,cutting,mild steel,2
+P002,machining,aluminum alloy,3
+P003,assembly,fasteners,1
+P004,inspection,components,0.5
